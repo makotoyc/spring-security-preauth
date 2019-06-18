@@ -1,4 +1,4 @@
-# boot-security-preauth
+# spring-security-preauth
 
 Spring Security Testを使用して、単体テストを作成するサンプル
 
