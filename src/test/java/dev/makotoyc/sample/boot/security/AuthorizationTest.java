@@ -13,7 +13,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
-import dev.makotoyc.sample.boot.BootSecurityPreauthApplication;
 
 /**
  * Controllerに送られるリクエストに対する認証を確認するテストクラス.
